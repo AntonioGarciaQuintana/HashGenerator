@@ -206,6 +206,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtLocationPath);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Hash Generator";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antonio\\source\\repos\\HashesGenerator\\HashesGenerator\\HashesGenerator.csproj": {}
+    "C:\\Users\\tony_\\Documents\\Projects\\HashGenerator\\HashesGenerator\\HashesGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antonio\\source\\repos\\HashesGenerator\\HashesGenerator\\HashesGenerator.csproj": {
+    "C:\\Users\\tony_\\Documents\\Projects\\HashGenerator\\HashesGenerator\\HashesGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antonio\\source\\repos\\HashesGenerator\\HashesGenerator\\HashesGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\tony_\\Documents\\Projects\\HashGenerator\\HashesGenerator\\HashesGenerator.csproj",
         "projectName": "HashesGenerator",
-        "projectPath": "C:\\Users\\antonio\\source\\repos\\HashesGenerator\\HashesGenerator\\HashesGenerator.csproj",
-        "packagesPath": "C:\\Users\\antonio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antonio\\source\\repos\\HashesGenerator\\HashesGenerator\\obj\\",
+        "projectPath": "C:\\Users\\tony_\\Documents\\Projects\\HashGenerator\\HashesGenerator\\HashesGenerator.csproj",
+        "packagesPath": "C:\\Users\\tony_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tony_\\Documents\\Projects\\HashGenerator\\HashesGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tony_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

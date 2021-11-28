@@ -1,0 +1,5 @@
+C:\Users\tony_\Documents\Projects\HashGenerator\publish\HashesGenerator.exe
+C:\Users\tony_\Documents\Projects\HashGenerator\publish\HashesGenerator.dll
+C:\Users\tony_\Documents\Projects\HashGenerator\publish\HashesGenerator.deps.json
+C:\Users\tony_\Documents\Projects\HashGenerator\publish\HashesGenerator.runtimeconfig.json
+C:\Users\tony_\Documents\Projects\HashGenerator\publish\HashesGenerator.pdb
